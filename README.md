@@ -19,4 +19,4 @@ Guardrail метрика: ACV значимо не изменилось (p = 0.34
 Применить новую ленту ко всем пользователям.
 
 ## Инструменты
-python (numpy, pandas, scipy, statsmodels), jupyter
+Python (Numpy, Pandas, Scipy, Statsmodels), Jupyter Notebook
